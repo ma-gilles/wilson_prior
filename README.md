@@ -1,1 +1,3 @@
-# wilson_prior
+# The Wilson prior
+
+Code coming soon
