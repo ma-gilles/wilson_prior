@@ -1,6 +1,6 @@
 # Wilson prior
 
-This is the companion code to the paper ``A Molecular Prior Distribution for Bayesian Inference Based on Wilson Statistics" by Marc Aurèle Gilles and Amit Singer.
+This is the companion code to the paper [A Molecular Prior Distribution for Bayesian Inference Based on Wilson Statistics](https://arxiv.org/abs/2202.09388) by Marc Aurèle Gilles and Amit Singer.
 
 To run the examples, you can create a virtual environment as follows:
 
